@@ -1,0 +1,9 @@
+node_modules
+dist
+workspace
+pro/.venv
+pro/models
+pro/__pycache__
+.DS_Store
+*.pyc
+.env
